@@ -1,1 +1,1 @@
-hola pequeños padawan. suerte en vuestra travesia
+Front de la demo de genai
